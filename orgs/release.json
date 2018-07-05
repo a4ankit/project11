@@ -1,0 +1,10 @@
+{
+  "orgName": "project11 - Release Test Org",
+  "edition": "Enterprise",
+  "orgPreferences" : {
+    "enabled": [
+      "S1DesktopEnabled",
+      "ChatterEnabled"
+    ]
+  }
+}
